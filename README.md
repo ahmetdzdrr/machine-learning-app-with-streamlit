@@ -20,12 +20,6 @@ To get started with the Machine Learning Streamlit App, follow these steps:
    git clone https://github.com/ahmetdzdrr/machine-learning-app-with-streamlit.git
 
 
-Install the required Python packages:
-
-```bash
-   pip install -r requirements.txt
-
-
 ## Exploratory Data Analysis
 The Exploratory Data Analysis (EDA) section provides essential tools for understanding your dataset:
 
@@ -41,3 +35,11 @@ The Machine Learning section of the app guides you through the model-building pr
 Preprocess your data by removing columns, handling null values, encoding categorical features, and scaling numeric features.
 Select from a range of machine learning models, including Logistic Regression, Decision Tree, Support Vector Machine (SVM), Random Forest, XGBoost, and Gradient Boosting.
 Evaluate your selected model's performance with accuracy, classification report, and a confusion matrix.
+
+
+Install the required Python packages:
+
+```bash
+   pip install -r requirements.txt
+
+
