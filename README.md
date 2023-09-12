@@ -35,6 +35,12 @@ Preprocess your data by removing columns, handling null values, encoding categor
 Select from a range of machine learning models, including Logistic Regression, Decision Tree, Support Vector Machine (SVM), Random Forest, XGBoost, and Gradient Boosting.
 Evaluate your selected model's performance with accuracy, classification report, and a confusion matrix.
 
+## Machine Learning
+The Machine Learning section of the app guides you through the model-building process:
+
+Preprocess your data by removing columns, handling null values, encoding categorical features, and scaling numeric features.
+Select from a range of machine learning models, including Logistic Regression, Decision Tree, Support Vector Machine (SVM), Random Forest, XGBoost, and Gradient Boosting.
+Evaluate your selected model's performance with accuracy, classification report, and a confusion matrix.
 
 Install the required Python packages:
 
