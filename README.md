@@ -17,7 +17,7 @@ To get started with the Machine Learning Streamlit App, follow these steps:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://[github.com/yourusername/your-repo.git](https://github.com/ahmetdzdrr/machine-learning-app-with-streamlit).git
    cd your-repo
 
 
