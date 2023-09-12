@@ -4,9 +4,15 @@ I created a Streamlit app for machine learning. In this project, I referred tita
 Requirements
 
 pandas
+
 streamlit
+
 scikit-learn
+
 matplotlib
+
 seaborn
+
 lightgbm
+
 xgboost
