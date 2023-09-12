@@ -24,15 +24,13 @@ To get started with the Machine Learning Streamlit App, follow these steps:
 
 Install the required Python packages:
 
-bash
-Copy code
-pip install -r requirements.txt
-Run the Streamlit app:
+```bash
+   pip install -r requirements.txt
 
-bash
-Copy code
+
+'''bash
 streamlit run your_app.py
-Open your web browser and navigate to http://localhost:8501.
+
 
 ## Exploratory Data Analysis
 The Exploratory Data Analysis (EDA) section provides essential tools for understanding your dataset:
