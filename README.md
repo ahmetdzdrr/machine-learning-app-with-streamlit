@@ -1,6 +1,5 @@
 # Machine Learning Streamlit App
 
-![Machine Learning App]
 
 ## Table of Contents
 1. [Introduction](#introduction)
